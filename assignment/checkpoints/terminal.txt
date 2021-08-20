@@ -15,8 +15,8 @@ touch
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-To find out if the current directory or parent directory is a git repository.
+To see if there is a repo set up, and if there are any changes to commit
 # 9 - What does the command 'git add .' do?
 adds a change in the working directory to the staging area.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push -u origin master
+git push -u origin master 
